@@ -1,1 +1,3 @@
-javac startstepscode/buildscript/*.java
+javac *.java
+
+jar --create -- file Main.class
