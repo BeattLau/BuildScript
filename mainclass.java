@@ -4,13 +4,6 @@ public class Main {
 
    String input = "";
 
-   System.out.println("Enter your name");
-   input = System.console() .readline();
-
-   while( !input.equals("Exit")) {
-   System.out.println("Hello " + input);
-   System.out.println("Enter your name");
-   input = System.console() .readline();
-   }
+   System.out.println("Hello Laura");
  }
 }
