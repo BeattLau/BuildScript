@@ -1,1 +1,0 @@
-javac startstepscode/buildscript/*.java
